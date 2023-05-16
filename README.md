@@ -1,12 +1,12 @@
 ### Hi there 👋, My name is Gilbert Botchway, a Data Analyst and a lifelong learner. 
-Welcome to my GitHub. Feel free and look at some of the projects i have worked on as well as those I am currently working on. 
+Welcome to my GitHub. Feel free and look at some of the projects I have worked on as well as those I am currently working on. 
 
 <!--
 **Gilbert-B/Gilbert-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on buidling Machine Learning Models with FastAPIs
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
