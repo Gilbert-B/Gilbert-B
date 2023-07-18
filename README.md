@@ -8,7 +8,11 @@ I am Gilbert, a Data Analyst and tech enthusiast with a passion for Data Analysi
 
 <br>
 
+-  🔭 I’m currently working on something cool 😉
 
+- 👯 I’m looking forward to collaborate on data science projects.
+
+- 🌱 Learning about Data Engineering and Business Intelligence
 
 
   <tr>
