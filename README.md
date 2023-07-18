@@ -1,5 +1,7 @@
-<h1 align="center">Hi!,  I'm Gilbert <img src=
-"https://github.com/Gilbert-B/Gilbert-B/blob/main/gitanimate.gif"></h1>
+<h1 align="center">Hi!,  I'm Gilbert
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Data+Analyst;Business+Intelligence+Analyst;ML+Enthusiast;Data+Engineer;Life+Long+Learner)](https://git.io/typing-svg)
+</div>
                                        
 Welcome to my GitHub. Feel free and look at some of the projects I have worked on as well as those I am currently working on. 
 
