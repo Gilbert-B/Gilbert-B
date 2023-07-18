@@ -1,4 +1,6 @@
 <h1 align="center">Hi!,  I'm Gilbert <img src=
+"https://github.com/Gilbert-B/Gilbert-B/blob/main/gitanimate.gif"></h1>
+                                       
 Welcome to my GitHub. Feel free and look at some of the projects I have worked on as well as those I am currently working on. 
 
 
