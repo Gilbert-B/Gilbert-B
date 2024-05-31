@@ -1,6 +1,6 @@
 <h1 align="center">Hi!,  I'm Gilbert
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Data+Analyst;Business+Intelligence+Analyst;ML+Enthusiast;Data+Engineer;Life+Long+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Data+Analyst;Business+Intelligence+Analyst;Life+Long+Learner)](https://git.io/typing-svg)
 </div>
                                        
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
